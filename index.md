@@ -9,4 +9,4 @@
 
 ## Problemas
 
-Maximizar $z=x_1+x_2$ sujeto a $x_1\geq 0$.
+Maximizar $$z=x_1+x_2$$ sujeto a $$x_1\geq 0$$.
